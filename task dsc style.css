@@ -1,0 +1,213 @@
+
+
+.navbar-inverse .navbar-brand
+{
+    color: #E41B17;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus
+{
+    background-color: #E41B17
+}
+
+.navbar-nav>li>.dropdown-menu
+{
+    background-color: black    
+}
+
+.dropdown-menu>li>a
+{
+    color: #E41B17
+}
+
+.table
+{
+    background: #DDD;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url('images/34.png');
+    margin-bottom: 40px;
+}
+
+.table h1
+{
+    margin-bottom: 40px;
+    color: #E41B17;
+}
+
+.table .box
+{
+    background: #FFF;
+    padding: 10px;
+    border: 1px solid #DDD;
+    margin-bottom: 15px;
+    width: 100%;
+        
+    
+}
+
+.table .box:hover h2
+{
+    -webkit-transform:scale(1.1,1.1) rotate(360deg);
+    -moz-transform:scale(1.1,1.1) rotate(360deg);
+    -o-transform:scale(1.1,1.1) rotate(360deg);
+    transform:scale(1.1,1.1) rotate(360deg);
+    border: 2px #DDD
+    
+}
+
+.table .box h2
+{
+    margin: 5px 0 15px;
+}
+
+.table .box li
+{
+    line-height: 50px;
+    font-weight: bold;
+    color: #E41B17; 
+}
+
+.table .box span
+{
+    color: #000
+}
+
+.he1
+{
+    margin-bottom: 60px;
+    margin-top: 60px
+}
+
+#m0
+{
+    color: #E41B17;
+    font-size: 60px;
+}
+
+.he1 p
+{
+    font-weight: bold;
+    line-height: 180%
+}
+
+#hh
+{
+    margin-top: 100px;
+    text-align: center;
+    color: #E41B17;
+}
+
+.pp
+{
+    background: #000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.pp .xo
+{
+    background-image: url('images/34.png');
+    padding: 10px;
+    border: 0px solid #DDD;
+    margin-bottom: 15px;
+    
+}
+
+
+
+.pp .xo h1
+{
+    margin: 5px 0 15px;
+}
+
+.pp .xo img
+{
+    font-size: 35px;
+    font-weight: bold;
+    color: #666;
+    width: 100px;
+    height: 100px;
+    background: #F3F3F3;
+    border-radius: 50%;
+    line-height: 100px;
+    border: 2px solid #FFF;
+}
+
+
+#mmm
+{
+    color: #E41B17;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 60px;
+    
+}
+
+.carousel-indicators li 
+{
+    color: #E41B17;
+    border-color: #E41B17;
+    background-color: #E41B17;
+}
+
+#b1
+{
+    margin-top: 50px;
+}
+
+#b2
+{
+    margin-top: 50px
+}
+
+#b3
+{
+    margin-top: 40px
+}
+
+#b4
+{
+    margin-top: 50px
+}
+
+#mmh
+{
+    margin-top: 50px;
+    font-size: 100px;
+    background: #000;
+}
+
+#mmh h1
+{
+    color: #EEE
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
